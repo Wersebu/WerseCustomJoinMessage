@@ -1,0 +1,5 @@
+name: WerseCustomJoinMessage
+version: '1.0-SNAPSHOT'
+main: werse.jarvis.werseCustomJoinMessage.WerseCustomJoinMessage
+api-version: '1.21'
+author: xxWersebuxx
